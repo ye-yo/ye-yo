@@ -1,5 +1,5 @@
 ## ❄️ Technical Skills
-<img src="https://ghchart.rshah.org/ye-yo"/>
+<!-- <img src="https://ghchart.rshah.org/ye-yo"/> -->
 <!-- Strong: -->
 <!--
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye-yo&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ye-yo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
