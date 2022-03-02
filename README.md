@@ -1,4 +1,3 @@
-## ❄️ Technical Skills
 <!-- <img src="https://ghchart.rshah.org/ye-yo"/> -->
 <!-- Strong: -->
 <!--
